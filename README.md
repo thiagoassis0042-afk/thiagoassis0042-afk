@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, eu sou o Thiago 👋
 
-<!--
-**thiagoassis0042-afk/thiagoassis0042-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Em transição de carreira para a área de **Análise de Crédito**, com foco em crédito ao consumidor (Pessoa Física) e gestão de risco.
 
-Here are some ideas to get you started:
+### 🎯 Objetivo
+Atuar como **Analista de Crédito Jr**, aplicando análise de dados, política de crédito e avaliação de risco para apoiar decisões de concessão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Ferramentas e competências
+Excel (modelagem, fórmulas e dashboards) · Análise de crédito (score, comprometimento de renda/DTI, política e parecer) · Git e GitHub · Python básico · IA aplicada (Claude)
+
+### 📌 Projeto em destaque
+**analise-credito-pf** — simulação end-to-end de uma esteira de crédito PF: base de clientes, motor de decisão, parecer e dashboard em Excel.
+https://github.com/thiagoassis0042-afk/analise-credito-pf
+
+### 📚 Em aprendizado contínuo
+Cursos de Git/GitHub e Bootcamp Bradesco.
+
+### 📫 Contato
+Email: thiagoassis0042@gmail.com
+
+---
+Aberto a oportunidades como Analista de Crédito Jr.
